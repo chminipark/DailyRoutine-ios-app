@@ -1,0 +1,6 @@
+framework module Pods_DailyRoutine {
+  umbrella header "Pods-DailyRoutine-umbrella.h"
+
+  export *
+  module * { export * }
+}
