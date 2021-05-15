@@ -2,7 +2,7 @@
 - - - -
 ### 루틴을 관리할수 있는 간단한 앱
 
-
+![DailyRoutine](https://user-images.githubusercontent.com/77793412/118363468-6eff1280-b5cf-11eb-9eb1-4103b0868165.gif)
 
 
 
@@ -15,5 +15,4 @@
 * CoreData framework를 사용해서 데이터를 저장하고 캘린더에서 데이터를 볼 수 있습니다.
 * 스토리보드 없이 코드로만 작성했습니다.
 * MVC 패턴으로 프로젝트를 완성했습니다.
-* 달력은 ‘FSCalendar’라는 오픈소스를 사용했습니다.
-https://github.com/WenchaoD/FSCalendar
+* 달력은 ‘FSCalendar’라는 오픈소스를 사용했습니다. (https://github.com/WenchaoD/FSCalendar)
